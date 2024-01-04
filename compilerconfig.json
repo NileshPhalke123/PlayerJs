@@ -1,0 +1,8 @@
+﻿[
+    {
+        "outputFile": "Pages/PlayerjsTestPage.razor.css",
+        "inputFile": "Pages/PlayerjsTestPage.razor.scss",
+        "minify": { "enabled": false },
+        "options": { "sourceMap": false }
+    }
+]

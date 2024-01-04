@@ -1,0 +1,13 @@
+﻿.container {
+  height: 100%;
+  display: flex;
+}
+
+.player {
+  flex-grow: 1;
+}
+
+.log {
+  width: 500px;
+  border: 1px solid gray;
+}
